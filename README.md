@@ -1,5 +1,6 @@
 # liver_prototype
-This project is designed for EPN Co. Ltd.
+This project is designed to create a liver cancer prediction prototype for EPN Co. Ltd.
+The prediction is based on 5hmc profiling in cfDNA.
 
 liver_model_v1.r is used to train the prediction model.
 
